@@ -1,5 +1,5 @@
 # AzureCloud-SOC
-# Building a SOC + Honeynet in Azure (Live Traffic)
+# Security Operations Center & Honeynet in Azure (Live Traffic)
 ![Cloud Honeynet / SOC](https://i.imgur.com/ZWxe03e.jpg)
 
 ## Introduction
