@@ -64,7 +64,7 @@ Stop Time 2023-05-11 15:20:34
 ![Azure Enviroment Security Score](https://i.imgur.com/OurIlC7.png)
 
 ## Network Hardening Procedures
-After the 24 hour implemetation period of the insecure enviroment, I gathered my data, selected new controls and implemented those controls utilizing NIST SP 800-53 r4. My main focus for this lab was the standards associated with SC.7.*. Additional assessments for SC-7 Boundary Protection
+After the 24 hour implementation period of the insecure environment, I gathered my data, selected new controls and implemented those controls utilizing NIST SP 800-53 r4. My main focus for this lab was the standards associated with SC.7.*. Additional assessments for SC-7 Boundary Protection
 
 ![SC.7.*. Additional assessments for SC-7 Boundary Protection](https://i.imgur.com/EH1dkRp.png)
 
