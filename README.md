@@ -73,7 +73,7 @@ After the 24 hour implementation period of the insecure environment, I gathered 
 
 
 
-During the Hardening phase, I prohibited ALL traffic except for my admin workstation to my NSG's, while all other resources were safeguarded by their built-in firewalls. I also implemeted Private Endpoints .
+During the Hardening phase, I prohibited ALL traffic except for my admin workstation to my NSG's, while all other resources were safeguarded by their built-in firewalls. I also implemented Private Endpoints .
 
 
 
