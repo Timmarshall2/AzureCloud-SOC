@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this project, I leveraged Microsoft Azure to create a honeynet and ingest logs from various resources into a Log Analytics workspace. Furthermore, I used Microsoft Sentinel to create attack maps, trigger alerts, and incidents over a 24 hour period to record and analyze an insecure enviroment. After gathering the metrics of the 24 hour insecure enviroment, I then recorded those metrics,created a geographical map of my attackers' location and applied security contols based off of the NIST 800- 53 guidelines to harden the enviroment. After assessment and authorization of those guidelines, I then monitored the network for another 24 hours and recorded the metrics post monitorization.
+In this project, I leveraged Microsoft Azure to create a honeynet and ingest logs from various resources into a Log Analytics workspace. Furthermore, I used Microsoft Sentinel to create attack maps, trigger alerts, and incidents over a 24 hour period to record and analyze an insecure environment. After gathering the metrics of the 24 hour insecure environment, I then recorded those metrics,created a geographical map of my attackers' location and applied security contols based off of the NIST 800- 53 guidelines to harden the enviroment. After assessment and authorization of those guidelines, I then monitored the network for another 24 hours and recorded the metrics post monitorization.
 
 # SOC & Honeynet Lab Architecture 
 ![Cloud Honeynet | Security Operations Center](https://i.imgur.com/nXMZzw6.png)
