@@ -136,14 +136,14 @@ During this lab I leveraged the attacks made on my honeynet to conduct my own in
 # Containment Eradication & Recovery
 
 - Immediately Revoke Sessions/Access for affected user
- ![Uder Revocation](https://i.imgur.com/6XPTZmX.png)
+ ![User Revocation](https://i.imgur.com/6XPTZmX.png)
  
  - Reset the affected user’s password and Roles if applicable
  - Enable MFA
 
 ## Client Report
 The following is a fictitious report of the incident that I would give to the client: 
-![Client Report](https://i.imgur.com/slyTBLt.png)
+![Client Report](https://i.imgur.com/a13SeDz.png)
 
 ## Conclusion
 
