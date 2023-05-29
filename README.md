@@ -121,7 +121,7 @@ During this lab I leveraged the attacks made on my honeynet to conduct my own in
   ![Incident Alert](https://i.imgur.com/CTEVTOu.png)
 
 - Verify the authenticity of the alert or report by utilizing the KQL query made to identify the alert. You can use that KQL to query Logs in the Log Analytics workspace to verify.
-  - ![KQL Query Verification](https://i.imgur.com/r9L9z85.png)
+  - ![KQL Query Verification](https://i.imgur.com/tnpPMcz.png)
 
 - Immediately identify affected user and identify the origin of the attacker and determine if the attacker is involved in any lateral movement. 
    ![Lat Move| attacker Origin](https://i.imgur.com/Xv6nXTq.png)
